@@ -1,4 +1,4 @@
-🗣️ Advanced Text-to-Speech Converter
+🗣️ Text-to-Speech Converter
 
 A powerful and user-friendly Text-to-Speech (TTS) web application built using Streamlit.
 It converts typed text or uploaded text files into high-quality speech with customizable male/female voices, speed control, and downloadable MP3 output.
